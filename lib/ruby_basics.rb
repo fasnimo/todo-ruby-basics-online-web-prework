@@ -17,8 +17,8 @@ name = "Bobby"
 greeting = "Hi there, #{name}!"
 end
 
-def return_a_value
-
+def return_a_value(phrase)
+ "Nice"
 end
 
 def last_evaluated_value
