@@ -14,7 +14,7 @@ end
 
 def greeting
 name = "Bobby"
-puts "Hi there, #{name}!"
+"Hi there, #{name}!"
 end
 
 def return_a_value
