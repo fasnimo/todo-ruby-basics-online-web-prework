@@ -4,7 +4,8 @@ end
 division(42, 7)
 
 def assign_variable(value)
-  
+  value = "Bob"
+  puts "Hello, #{value}!"
 end
 
 def argue
